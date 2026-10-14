@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "fecha_generacion": "2026-10-14T03:57:53.447577",
+  "periodo_analizado": "05/01/2026 - 10/01/2026",
+  "fuentes_datos": [
+    "dataset_limpio_guia2_Dennis_Rodriguez.csv (Guía 2)",
+    "sucursales_dataretail_guia06.csv (Guía 6)",
+    "demanda_dataretail_guia06.csv (Guía 6)"
+  ],
+  "filtros_aplicados": {
+    "periodo": "05/01/2026 - 10/01/2026",
+    "categorias": "todas",
+    "canales": "todos",
+    "regiones": "todas"
+  },
+  "kpis": {
+    "total_ventas": 291.25,
+    "utilidad_estimada": 102.5,
+    "margen_pct": 35.1931330472103,
+    "ticket_promedio": 48.541666666666664
+  },
+  "archivos_generados": [
+    "informe_dataretail_v1.0.pdf",
+    "informe_dataretail_v1.0.docx",
+    "informe_dataretail.html"
+  ],
+  "generado_por": "pipeline_reporteria_guia07.py"
+}
